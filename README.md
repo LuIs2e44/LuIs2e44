@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**LuIs2e44/LuIs2e44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### bem vindo a minha página 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Tenho 17 anos 
+- estou no 1° ano do ensino médio 
+- sou leonino 
+- curto assistir animes e series
+- adoro andar de moto com os amigos
+  
+ 
+ entre em contato comigo👇🏽 
+@luis.henriquefranciscodo.nascimento@escola.pr.gov.br
